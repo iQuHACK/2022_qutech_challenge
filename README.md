@@ -1,9 +1,9 @@
-# QuTech Quantum Error Correction Challenge (MIT iQuHACK 2022)
+# QuTech QEC Challenge @ MIT iQuHACK 2022
 
 
 <p align="middle">
-  <a href="https://www.quantum-inspire.com/" target="_blank"><img src="https://user-images.githubusercontent.com/10100490/151484481-7cedb7da-603e-43cc-890c-979fb66aeb60.png" width="25%" style="padding-right: 5%"/></a>
-  <a href="https://iquhack.mit.edu/" target="_blank"><img src="https://user-images.githubusercontent.com/10100490/151484702-4fc8ca20-59fe-4244-9d3c-210118d5d69a.svg" width="10%" style="padding-left: 5%"/> </a>
+  <a href="https://www.quantum-inspire.com/" target="_blank"><img src="https://user-images.githubusercontent.com/10100490/151484481-7cedb7da-603e-43cc-890c-979fb66aeb60.png" width="25%" style="padding-right: 15%"/></a>
+  <a href="https://iquhack.mit.edu/" target="_blank"><img src="https://user-images.githubusercontent.com/10100490/151484702-4fc8ca20-59fe-4244-9d3c-210118d5d69a.svg" width="10%" style="padding-left: 15%"/> </a>
 </p>
 
 

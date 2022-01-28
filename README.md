@@ -12,13 +12,11 @@
 
 In this challenge, participants will be tasked with using the available noisy intermediate-scale quantum  (NISQ)  hardware  to  implement  a  program  that  makes  use  of  quantum  error detection/correction (QED/QEC) techniques. The team at QuTech proposes a particular topic around a fundamental building block of quantum error correction, Quantum Parity Measurements  (QPM).  Nevertheless,  any  project  that  makes  use  of  QED/QEC  will  be admissible, and scoring will be adapted on a case-by-case basis to assess all projects fairly.
 
----
 
 ## Background 
 
 Besides  quantum  communication,  which  participants  will  be  able  to  explore  in  the  QuTech Quantum  Encryption  challenge,  another  outstanding  goal  of  QuTech  is  the  development of  fault-tolerant  quantum  computing.  In  honoring  this  tradition,  we  present a challenge  around  the implementation of QPMs, projective measurements used to stabilize quantum information, allowing the detection and, potentially, correction of quantum errors. These form the basis of quantum error correction, and their implementation is, therefore, fundamental to move us from the NISQ era into fully fault-tolerant quantum computing.
 
----
 ## Goal
 
 The proposed goal of this challenge is the implementation of high-fidelity QPMs. It will be the 
@@ -30,7 +28,7 @@ responsibility of participants to define a set of relevant metrics, either from 
 
 **Submission:** Please visit https://iquhack.mit.edu/ for details on how to submit your project.
 
----
+
 ## Quantum Parity Measurements
 
 In  an  actively  corrected  quantum  memory,  quantum  information  is  distributed  among  many elementary degrees of freedom. QPMs are a procedure used to actively gather information  about  which  (or  whether)  errors  took  place,  particularly  in  stabilizer  codes,  by  measuring  subsets of qubits in Pauli matrix bases. An ideal QPM provides a discretization of the set of  errors that occurred in the qubits over which quantum information was distributed. 
@@ -49,7 +47,6 @@ Participants should choose and/or create different metrics to assess the perform
 Participants  are  encouraged  to  augment  their  projects  through  the  exploration  of  error mitigation  strategies,  to  determine  whether  they  can  be  employed  to  further  improve  the implemented  circuits.  Examples  of  these  could  range  from  dynamical  decoupling  to  more involved approaches, such as randomized compiling. Furthermore, participants are encouraged to draw information from these experiments to study the effects of specific error channels inherent to the NISQ hardware platforms used in the event, whether through direct measurement or matching with simulation results. 
 
 
----
 
 ## References
 
